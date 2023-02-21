@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 # Opens MonkeyType in a Chromemium/Chrome window
 # This can be modified to use different browsers/drivers
 browser = webdriver.Chrome(executable_path='chromedriver')
-browser.get('https://monkeytype.com/')
+browser.get('https://monkeytype.co/')
 
 
 def type_text(words):

@@ -7,7 +7,7 @@ Requirements:
 * Python  
 * Pyautogui module  
 * Selenium  
-* Chromiu
+* Chromium
 
 # Installing pyautogui
 1. Open your cmd/terminal
